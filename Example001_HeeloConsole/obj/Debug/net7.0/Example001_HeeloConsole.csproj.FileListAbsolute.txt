@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\bin\Debug\net7.0\Example001_HeeloConsole.exe
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\bin\Debug\net7.0\Example001_HeeloConsole.deps.json
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\bin\Debug\net7.0\Example001_HeeloConsole.runtimeconfig.json
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\bin\Debug\net7.0\Example001_HeeloConsole.dll
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\bin\Debug\net7.0\Example001_HeeloConsole.pdb
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\obj\Debug\net7.0\Example001_HeeloConsole.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\obj\Debug\net7.0\Example001_HeeloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\obj\Debug\net7.0\Example001_HeeloConsole.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\obj\Debug\net7.0\Example001_HeeloConsole.AssemblyInfo.cs
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\obj\Debug\net7.0\Example001_HeeloConsole.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\obj\Debug\net7.0\Example001_HeeloConsole.dll
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\obj\Debug\net7.0\refint\Example001_HeeloConsole.dll
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\obj\Debug\net7.0\Example001_HeeloConsole.pdb
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\obj\Debug\net7.0\Example001_HeeloConsole.genruntimeconfig.cache
+C:\Users\home\Desktop\Examples999\Example001_HeeloConsole\obj\Debug\net7.0\ref\Example001_HeeloConsole.dll
