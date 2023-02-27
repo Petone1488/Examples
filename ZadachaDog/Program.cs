@@ -28,7 +28,7 @@ if (num == num2*num2)
 {
     Console.WriteLine("Верно");
 }
-else if
+else
     Console.WriteLine("Не верно");
 
 
